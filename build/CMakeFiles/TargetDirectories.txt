@@ -1,0 +1,4 @@
+/DLL/pointnet2-sem-seg-changed/build/CMakeFiles/model_so.dir
+/DLL/pointnet2-sem-seg-changed/build/CMakeFiles/use.dir
+/DLL/pointnet2-sem-seg-changed/build/CMakeFiles/edit_cache.dir
+/DLL/pointnet2-sem-seg-changed/build/CMakeFiles/rebuild_cache.dir
